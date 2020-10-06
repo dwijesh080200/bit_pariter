@@ -36,4 +36,21 @@
 
 `python3 checksum.py`
 
+- le programme va vous demander d'inserez un string ou un mot
+- inserez le mot
+- le programme va alors calculer le checksum1 et checksum2 du mot que vous avez mit
+- il vous donnera le code ascii des lettres un par un du mot, par exemple
+  - mot = network
+  - n : 78 
+  - e : 101
+  - t : 116
+  - w : 119
+  - o : 111
+  - r : 114
+  - k : 107
+  
+- apres il va calculer les checksum
+- pour calculer le checksum en generale il est assez similaire au façon de calculer le cumulative frequency en math 
+- le checksum permet de voir si il y eu d'erreur dans le transfer de packet.
+
 
