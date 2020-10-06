@@ -55,6 +55,7 @@ en cas ou python3 n'est pas installer, faites
   
 - apres il va calculer les checksum
 - pour calculer le checksum en generale il est assez similaire au façon de calculer le cumulative frequency en math 
+mais dans ce cas precis avec les chiffre de ascii code
 - le checksum permet de voir si il y eu d'erreur dans le transfer de packet.
 
 
