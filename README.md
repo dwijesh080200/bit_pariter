@@ -4,6 +4,10 @@
 
 `git clone https://github.com/dwijesh080200/bit_pariter.git`
 
+en cas ou python3 n'est pas installer, faites 
+
+`sudo apt-get install python3`
+
 - on lance pair.py. pour ce faire, faites
 
 `python3 pair1.py`
